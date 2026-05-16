@@ -62,10 +62,11 @@ I'm a **Full-Stack Engineer and AI Developer** with hands-on experience building
 **AI & LLM Orchestration**
 
 <img src="https://raw.githubusercontent.com/JeraldSpares/JeraldSpares/main/assets/icons/claude.svg" width="48" height="48" alt="Claude"/>
+<img src="https://raw.githubusercontent.com/JeraldSpares/JeraldSpares/main/assets/icons/openai.svg" width="48" height="48" alt="OpenAI / ChatGPT"/>
 <img src="https://raw.githubusercontent.com/JeraldSpares/JeraldSpares/main/assets/icons/gemini.svg" width="48" height="48" alt="Google Gemini"/>
+<img src="https://raw.githubusercontent.com/JeraldSpares/JeraldSpares/main/assets/icons/grok.svg" width="48" height="48" alt="Grok (xAI)"/>
+<img src="https://raw.githubusercontent.com/JeraldSpares/JeraldSpares/main/assets/icons/copilot.svg" width="48" height="48" alt="GitHub Copilot"/>
 <img src="https://raw.githubusercontent.com/JeraldSpares/JeraldSpares/main/assets/icons/mcp.svg" width="48" height="48" alt="Model Context Protocol"/>
-
-<sub><i>also: ChatGPT · Codex · Grok · GitHub Copilot</i></sub>
 
 **Cloud & Infrastructure**
 
