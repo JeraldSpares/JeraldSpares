@@ -8,7 +8,7 @@
 <!-- ░░░░░░░░░░░░░░░░  TYPING ANIMATION  ░░░░░░░░░░░░░░░░ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=0F172A&center=true&vCenter=true&width=720&lines=Building+enterprise+AI+systems+for+real+businesses;Architecting+multi-agent+LLM+orchestration;Cloud+%2B+Automation+%2B+End-to-End+Full-Stack;BSIT+%E2%80%99+26+%40+PHINMA-Araullo+University)](https://github.com/JeraldSpares)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=720&lines=Building+enterprise+AI+systems+for+real+businesses;Architecting+multi-agent+LLM+orchestration;Cloud+%2B+Automation+%2B+End-to-End+Full-Stack;BSIT+%E2%80%99+26+%40+PHINMA-Araullo+University)](https://github.com/JeraldSpares)
 
 </div>
 
