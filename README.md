@@ -85,10 +85,12 @@ I'm a **Full-Stack Engineer and AI Developer** with hands-on experience building
 
 ## 🚀 Featured Projects
 
-### 🚗 DealerHub — AI-Powered Vehicle Financing
+### 🚗 [DealerHub — AI-Powered Vehicle Financing](https://github.com/JeraldSpares/DealerHub-AI-Powered-Vehicle-Financing-System-Nissan-Philippines)
 
 <div align="center">
-  <img src="https://placehold.co/1200x400/1E3C72/00E5FF/png?text=DealerHub+Screenshot&font=raleway" alt="DealerHub Screenshot" width="100%"/>
+  <a href="https://github.com/JeraldSpares/DealerHub-AI-Powered-Vehicle-Financing-System-Nissan-Philippines">
+    <img src="https://raw.githubusercontent.com/JeraldSpares/DealerHub-AI-Powered-Vehicle-Financing-System-Nissan-Philippines/main/DEALERHUB%20STSTEM%20SCREENSHOTS/Screenshot%202026-05-04%20121733.png" alt="DealerHub Screenshot" width="100%"/>
+  </a>
 </div>
 
 > Built for **Nissan Philippines**. An end-to-end AI system that automated vehicle loan evaluations and financial processing — **reduced manual turnaround by ~70%**, enabling faster credit decisions at scale.
@@ -97,10 +99,12 @@ I'm a **Full-Stack Engineer and AI Developer** with hands-on experience building
 
 ---
 
-### 🤖 EVA Bot — Marketing AI System
+### 🤖 [EVA Bot — Marketing AI System](https://github.com/JeraldSpares/EVA-MARKETING-AI-SHOWCASE)
 
 <div align="center">
-  <img src="https://placehold.co/1200x400/2A5298/00E5FF/png?text=EVA+Bot+Screenshot&font=raleway" alt="EVA Bot Screenshot" width="100%"/>
+  <a href="https://github.com/JeraldSpares/EVA-MARKETING-AI-SHOWCASE">
+    <img src="https://raw.githubusercontent.com/JeraldSpares/EVA-MARKETING-AI-SHOWCASE/main/screenshots/AIChat-Eva.jpg" alt="EVA Bot Screenshot" width="100%"/>
+  </a>
 </div>
 
 > Architected for **Enderun Colleges**. A **27-agent Claude Opus platform** that automates content strategy, PR, and lead generation. Includes an always-on **Telegram bot** and **EVA Dashboard** integrated with GitHub Actions — the marketing team triggers campaigns via natural language and voice.
@@ -109,10 +113,12 @@ I'm a **Full-Stack Engineer and AI Developer** with hands-on experience building
 
 ---
 
-### 🌏 TOPIK Registration System
+### 🌏 [TOPIK Registration System](https://github.com/JeraldSpares/Automated-Test-of-Proficiency-in-Korean-TOPIK-Registration-System-Enderun-Colleges)
 
 <div align="center">
-  <img src="https://placehold.co/1200x400/6B46C1/00E5FF/png?text=TOPIK+Registration+Screenshot&font=raleway" alt="TOPIK Screenshot" width="100%"/>
+  <a href="https://github.com/JeraldSpares/Automated-Test-of-Proficiency-in-Korean-TOPIK-Registration-System-Enderun-Colleges">
+    <img src="https://raw.githubusercontent.com/JeraldSpares/Automated-Test-of-Proficiency-in-Korean-TOPIK-Registration-System-Enderun-Colleges/main/screenshots/public-landing.jpg" alt="TOPIK Screenshot" width="100%"/>
+  </a>
 </div>
 
 > High-availability student registration portal for **Korean language proficiency testing** at Enderun. Integrated **Stripe, PayPal, PayMongo, GCash, and Maya** via Shopify API — handled peak-load submissions with **zero downtime**.
@@ -121,10 +127,12 @@ I'm a **Full-Stack Engineer and AI Developer** with hands-on experience building
 
 ---
 
-### 🎓 EduAid — AI Admissions & Scholarship Portal
+### 🎓 [EduAid — AI Admissions & Scholarship Portal](https://github.com/JeraldSpares/EduAid-AI-Powered-Admissions-and-Scholarship-Portal-Enderun-Colleges)
 
 <div align="center">
-  <img src="https://placehold.co/1200x400/1E3C72/00E5FF/png?text=EduAid+Screenshot&font=raleway" alt="EduAid Screenshot" width="100%"/>
+  <a href="https://github.com/JeraldSpares/EduAid-AI-Powered-Admissions-and-Scholarship-Portal-Enderun-Colleges">
+    <img src="https://raw.githubusercontent.com/JeraldSpares/EduAid-AI-Powered-Admissions-and-Scholarship-Portal-Enderun-Colleges/main/eduaid%20screenshots/01-landing-home.png" alt="EduAid Screenshot" width="100%"/>
+  </a>
 </div>
 
 > Built an **intelligent scholarship evaluation engine** that automated student assessment workflows for Enderun — reduced admissions processing time and minimized human error in eligibility screening.
@@ -133,10 +141,12 @@ I'm a **Full-Stack Engineer and AI Developer** with hands-on experience building
 
 ---
 
-### 📚 Academic Management System (AMS)
+### 📚 [Academic Management System (AMS)](https://github.com/JeraldSpares/Academic-Management-System-AMS---Enderun-Colleges)
 
 <div align="center">
-  <img src="https://placehold.co/1200x400/2A5298/00E5FF/png?text=Academic+Management+System&font=raleway" alt="AMS Screenshot" width="100%"/>
+  <a href="https://github.com/JeraldSpares/Academic-Management-System-AMS---Enderun-Colleges">
+    <img src="https://raw.githubusercontent.com/JeraldSpares/Academic-Management-System-AMS---Enderun-Colleges/main/AMS%20SCREENSHOTS/Screenshot%202026-05-09%20172246.png" alt="AMS Screenshot" width="100%"/>
+  </a>
 </div>
 
 > Centralized **institutional data and student records** into a unified platform for Enderun — a secure, scalable academic management ecosystem.
@@ -145,10 +155,12 @@ I'm a **Full-Stack Engineer and AI Developer** with hands-on experience building
 
 ---
 
-### 👥 HR & Employee Portal
+### 👥 [HR & Employee Portal](https://github.com/JeraldSpares/Human-Resources-Management-System-Enderun-Colleges)
 
 <div align="center">
-  <img src="https://placehold.co/1200x400/6B46C1/00E5FF/png?text=HR+%26+Employee+Portal&font=raleway" alt="HR Portal Screenshot" width="100%"/>
+  <a href="https://github.com/JeraldSpares/Human-Resources-Management-System-Enderun-Colleges">
+    <img src="https://raw.githubusercontent.com/JeraldSpares/Human-Resources-Management-System-Enderun-Colleges/main/HRMS%20SCREENSHOTS/Screenshot%202026-05-09%20164227.png" alt="HR Portal Screenshot" width="100%"/>
+  </a>
 </div>
 
 > Full-stack **Enterprise HR Portal** built with **Google Apps Script** and JavaScript. Centralized employee records and streamlined daily operations through **automated multi-level approval workflows** and interactive analytics.
