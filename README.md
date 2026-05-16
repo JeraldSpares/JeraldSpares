@@ -14,10 +14,13 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:jeraldespares123@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=181717)](https://github.com/JeraldSpares)
-[![Salesforce](https://img.shields.io/badge/Salesforce-FFFFFF?style=for-the-badge&logo=salesforce&logoColor=00A1E0)](https://salesforce.com/trailblazer/yd37qpumn2qb37ujtp)
-[![Facebook](https://img.shields.io/badge/Facebook-FFFFFF?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://facebook.com/spar3s)
+<a href="mailto:jeraldespares123@gmail.com"><img src="https://raw.githubusercontent.com/JeraldSpares/JeraldSpares/main/assets/icons/gmail.svg" width="48" height="48" alt="Email"/></a>
+&nbsp;
+<a href="https://github.com/JeraldSpares"><img src="https://raw.githubusercontent.com/JeraldSpares/JeraldSpares/main/assets/icons/github.svg" width="48" height="48" alt="GitHub"/></a>
+&nbsp;
+<a href="https://salesforce.com/trailblazer/yd37qpumn2qb37ujtp"><img src="https://raw.githubusercontent.com/JeraldSpares/JeraldSpares/main/assets/icons/salesforce.svg" width="48" height="48" alt="Salesforce Trailblazer"/></a>
+&nbsp;
+<a href="https://facebook.com/spar3s"><img src="https://raw.githubusercontent.com/JeraldSpares/JeraldSpares/main/assets/icons/facebook.svg" width="48" height="48" alt="Facebook"/></a>
 
 </div>
 
