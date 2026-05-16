@@ -22,11 +22,21 @@
 &nbsp;
 <a href="https://facebook.com/spar3s"><img src="https://raw.githubusercontent.com/JeraldSpares/JeraldSpares/main/assets/icons/facebook.svg" width="48" height="48" alt="Facebook"/></a>
 
+<br/><br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=JeraldSpares&label=Profile+views&style=for-the-badge&color=0EA5E9&labelColor=E0F2FE)
+
 </div>
 
----
+<!-- ░░░░  divider  ░░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFFFFF,50:0EA5E9,100:FFFFFF&height=3" width="100%"/>
 
-## 👨‍💻 About Me
+<!-- ░░░░░░░░░░░░░░░░  ABOUT ME  ░░░░░░░░░░░░░░░░ -->
+<div align="center">
+
+  ![About](https://capsule-render.vercel.app/api?type=rect&color=0:FFFFFF,50:E0F2FE,100:FFFFFF&height=70&fontSize=30&fontColor=0C4A6E&text=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20About%20Me&fontAlignY=55)
+
+</div>
 
 I'm a **Full-Stack Engineer and AI Developer** with hands-on experience building enterprise-grade systems for **Nissan Philippines** and **Enderun Colleges**. I specialize in **multi-agent LLM orchestration**, **cloud infrastructure**, and **end-to-end automation** — turning complex business requirements into production-ready solutions.
 
@@ -36,9 +46,49 @@ I'm a **Full-Stack Engineer and AI Developer** with hands-on experience building
 - 🏆 Certified by **Google · Anthropic · Oracle · AWS · Microsoft Learn**
 - 📍 Based in **Makati City, Philippines**
 
----
+<!-- ░░░░░░░░░░░░░░░░  METRIC HIGHLIGHTS  ░░░░░░░░░░░░░░░░ -->
+<div align="center">
 
-## 💼 Experience
+<table>
+<tr>
+<td align="center" width="16%">
+<img src="https://img.shields.io/badge/-70%25-0EA5E9?style=for-the-badge&labelColor=FFFFFF" alt="70%"/><br/>
+<sub><b>Faster loan<br/>processing</b><br/><i>DealerHub · Nissan</i></sub>
+</td>
+<td align="center" width="16%">
+<img src="https://img.shields.io/badge/-27-0EA5E9?style=for-the-badge&labelColor=FFFFFF" alt="27"/><br/>
+<sub><b>Claude Opus<br/>AI agents</b><br/><i>EVA Marketing</i></sub>
+</td>
+<td align="center" width="16%">
+<img src="https://img.shields.io/badge/-500%2B-0EA5E9?style=for-the-badge&labelColor=FFFFFF" alt="500+"/><br/>
+<sub><b>Users<br/>supported</b><br/><i>PHINMA IT</i></sub>
+</td>
+<td align="center" width="16%">
+<img src="https://img.shields.io/badge/-600-0EA5E9?style=for-the-badge&labelColor=FFFFFF" alt="600"/><br/>
+<sub><b>Internship<br/>hours</b><br/><i>Enderun</i></sub>
+</td>
+<td align="center" width="16%">
+<img src="https://img.shields.io/badge/-15%2B-0EA5E9?style=for-the-badge&labelColor=FFFFFF" alt="15+"/><br/>
+<sub><b>Production<br/>projects</b><br/><i>Public on GitHub</i></sub>
+</td>
+<td align="center" width="16%">
+<img src="https://img.shields.io/badge/-6-0EA5E9?style=for-the-badge&labelColor=FFFFFF" alt="6"/><br/>
+<sub><b>Major<br/>certifications</b><br/><i>Google · AWS · MS</i></sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<!-- ░░░░  divider  ░░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFFFFF,50:0EA5E9,100:FFFFFF&height=3" width="100%"/>
+
+<!-- ░░░░░░░░░░░░░░░░  EXPERIENCE  ░░░░░░░░░░░░░░░░ -->
+<div align="center">
+
+  ![Experience](https://capsule-render.vercel.app/api?type=rect&color=0:FFFFFF,50:E0F2FE,100:FFFFFF&height=70&fontSize=30&fontColor=0C4A6E&text=%F0%9F%92%BC%20Experience&fontAlignY=55)
+
+</div>
 
 **Full-Stack Engineer Intern** — *Business Re-Engineering Unit*
 `Enderun Colleges` · Dec 2025 – Mar 2026 · **600 hours**
@@ -48,11 +98,13 @@ I'm a **Full-Stack Engineer and AI Developer** with hands-on experience building
 `PHINMA-Araullo University` · 2022 – 2024
 > Supported 500+ faculty and students with hardware, software, and network issues. Documented IT procedures and helped deploy campus-wide technical solutions.
 
----
+<!-- ░░░░  divider  ░░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFFFFF,50:0EA5E9,100:FFFFFF&height=3" width="100%"/>
 
-## 🛠️ Tech Stack
-
+<!-- ░░░░░░░░░░░░░░░░  TECH STACK  ░░░░░░░░░░░░░░░░ -->
 <div align="center">
+
+  ![Tech Stack](https://capsule-render.vercel.app/api?type=rect&color=0:FFFFFF,50:E0F2FE,100:FFFFFF&height=70&fontSize=30&fontColor=0C4A6E&text=%F0%9F%9B%A0%EF%B8%8F%20Tech%20Stack&fontAlignY=55)
 
 **Languages**
 
@@ -89,9 +141,15 @@ I'm a **Full-Stack Engineer and AI Developer** with hands-on experience building
 
 </div>
 
----
+<!-- ░░░░  divider  ░░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFFFFF,50:0EA5E9,100:FFFFFF&height=3" width="100%"/>
 
-## 🚀 Featured Projects
+<!-- ░░░░░░░░░░░░░░░░  FEATURED PROJECTS  ░░░░░░░░░░░░░░░░ -->
+<div align="center">
+
+  ![Featured Projects](https://capsule-render.vercel.app/api?type=rect&color=0:FFFFFF,50:E0F2FE,100:FFFFFF&height=70&fontSize=30&fontColor=0C4A6E&text=%F0%9F%9A%80%20Featured%20Projects&fontAlignY=55)
+
+</div>
 
 ### 🚗 [DealerHub — AI-Powered Vehicle Financing](https://github.com/JeraldSpares/DealerHub-AI-Powered-Vehicle-Financing-System-Nissan-Philippines)
 
@@ -175,11 +233,13 @@ I'm a **Full-Stack Engineer and AI Developer** with hands-on experience building
 
 [![Stack](https://skillicons.dev/icons?i=javascript,gcp&theme=light)](#)
 
----
+<!-- ░░░░  divider  ░░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFFFFF,50:0EA5E9,100:FFFFFF&height=3" width="100%"/>
 
-## 🏆 Certifications
-
+<!-- ░░░░░░░░░░░░░░░░  CERTIFICATIONS  ░░░░░░░░░░░░░░░░ -->
 <div align="center">
+
+  ![Certifications](https://capsule-render.vercel.app/api?type=rect&color=0:FFFFFF,50:E0F2FE,100:FFFFFF&height=70&fontSize=30&fontColor=0C4A6E&text=%F0%9F%8F%86%20Certifications&fontAlignY=55)
 
 | Provider | Credential |
 |---|---|
@@ -192,22 +252,36 @@ I'm a **Full-Stack Engineer and AI Developer** with hands-on experience building
 
 </div>
 
----
+<!-- ░░░░  divider  ░░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFFFFF,50:0EA5E9,100:FFFFFF&height=3" width="100%"/>
 
-## 📊 GitHub Activity
-
+<!-- ░░░░░░░░░░░░░░░░  GITHUB ACTIVITY  ░░░░░░░░░░░░░░░░ -->
 <div align="center">
+
+  ![GitHub Activity](https://capsule-render.vercel.app/api?type=rect&color=0:FFFFFF,50:E0F2FE,100:FFFFFF&height=70&fontSize=30&fontColor=0C4A6E&text=%F0%9F%93%8A%20GitHub%20Activity&fontAlignY=55)
 
 [![Jerald's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeraldSpares&show_icons=true&theme=buefy&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/JeraldSpares)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeraldSpares&layout=compact&theme=buefy&hide_border=true&langs_count=8)](https://github.com/JeraldSpares)
 
+<br/>
+
+<!-- Activity graph -->
+[![Jerald's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JeraldSpares&theme=react&hide_border=true&bg_color=FFFFFF&color=0EA5E9&line=0EA5E9&point=0C4A6E&area=true&area_color=BAE6FD)](https://github.com/JeraldSpares)
+
+<br/>
+
+<!-- Snake animation (auto-generated by .github/workflows/snake.yml) -->
+<img src="https://raw.githubusercontent.com/JeraldSpares/JeraldSpares/output/github-snake-light.svg" alt="Contribution snake animation" width="100%"/>
+
 </div>
 
----
+<!-- ░░░░  divider  ░░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFFFFF,50:0EA5E9,100:FFFFFF&height=3" width="100%"/>
 
-## 💬 Let's Build Something
-
+<!-- ░░░░░░░░░░░░░░░░  CONNECT  ░░░░░░░░░░░░░░░░ -->
 <div align="center">
+
+  ![Let's Connect](https://capsule-render.vercel.app/api?type=rect&color=0:FFFFFF,50:E0F2FE,100:FFFFFF&height=70&fontSize=30&fontColor=0C4A6E&text=%F0%9F%92%AC%20Let%27s%20Build%20Something&fontAlignY=55)
 
 I'm open to **full-time roles**, **freelance work**, and **collaboration on AI/cloud projects**.
 
@@ -215,7 +289,7 @@ I'm open to **full-time roles**, **freelance work**, and **collaboration on AI/c
 
 </div>
 
-<!-- ░░░░░░░░░░░░░░░░  FOOTER BANNER (WHITE / LIGHT BLUE)  ░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░░░░  FOOTER BANNER  ░░░░░░░░░░░░░░░░ -->
 <div align="center">
 
   ![Footer](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:BAE6FD,50:E0F2FE,100:FFFFFF&text=Thanks%20for%20visiting!&fontSize=28&fontColor=0C4A6E&animation=fadeIn&stroke=0EA5E9&strokeWidth=1.5&section=footer&fontAlignY=70)
