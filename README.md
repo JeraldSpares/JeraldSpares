@@ -61,10 +61,11 @@ I'm a **Full-Stack Engineer and AI Developer** with hands-on experience building
 
 **AI & LLM Orchestration**
 
-![Claude](https://img.shields.io/badge/Claude-FFFFFF?style=for-the-badge&logo=anthropic&logoColor=D97757)
-![Gemini](https://img.shields.io/badge/Gemini-FFFFFF?style=for-the-badge&logo=google-gemini&logoColor=8E75B2)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-FFFFFF?style=for-the-badge&logo=openai&logoColor=74AA9C)
-![MCP](https://img.shields.io/badge/MCP-FFFFFF?style=for-the-badge&logo=anthropic&logoColor=0EA5E9)
+<img src="https://raw.githubusercontent.com/JeraldSpares/JeraldSpares/main/assets/icons/claude.svg" width="48" height="48" alt="Claude"/>
+<img src="https://raw.githubusercontent.com/JeraldSpares/JeraldSpares/main/assets/icons/gemini.svg" width="48" height="48" alt="Google Gemini"/>
+<img src="https://raw.githubusercontent.com/JeraldSpares/JeraldSpares/main/assets/icons/mcp.svg" width="48" height="48" alt="Model Context Protocol"/>
+
+<sub><i>also: ChatGPT · Codex · Grok · GitHub Copilot</i></sub>
 
 **Cloud & Infrastructure**
 
@@ -98,8 +99,7 @@ I'm a **Full-Stack Engineer and AI Developer** with hands-on experience building
 
 > Built for **Nissan Philippines**. An end-to-end AI system that automated vehicle loan evaluations and financial processing — **reduced manual turnaround by ~70%**, enabling faster credit decisions at scale.
 
-[![Stack](https://skillicons.dev/icons?i=python,nodejs,supabase&theme=light)](#)
-![Claude](https://img.shields.io/badge/Claude-FFFFFF?style=for-the-badge&logo=anthropic&logoColor=D97757)
+[![Stack](https://skillicons.dev/icons?i=python,nodejs,supabase&theme=light)](#) <img src="https://raw.githubusercontent.com/JeraldSpares/JeraldSpares/main/assets/icons/claude.svg" width="48" height="48" alt="Claude"/>
 
 ---
 
@@ -113,8 +113,7 @@ I'm a **Full-Stack Engineer and AI Developer** with hands-on experience building
 
 > Architected for **Enderun Colleges**. A **27-agent Claude Opus platform** that automates content strategy, PR, and lead generation. Includes an always-on **Telegram bot** and **EVA Dashboard** integrated with GitHub Actions — the marketing team triggers campaigns via natural language and voice.
 
-[![Stack](https://skillicons.dev/icons?i=python,github,nodejs&theme=light)](#)
-![Claude](https://img.shields.io/badge/Claude-FFFFFF?style=for-the-badge&logo=anthropic&logoColor=D97757)
+[![Stack](https://skillicons.dev/icons?i=python,github,nodejs&theme=light)](#) <img src="https://raw.githubusercontent.com/JeraldSpares/JeraldSpares/main/assets/icons/claude.svg" width="48" height="48" alt="Claude"/>
 
 ---
 
@@ -142,8 +141,7 @@ I'm a **Full-Stack Engineer and AI Developer** with hands-on experience building
 
 > Built an **intelligent scholarship evaluation engine** that automated student assessment workflows for Enderun — reduced admissions processing time and minimized human error in eligibility screening.
 
-[![Stack](https://skillicons.dev/icons?i=python,nextjs,supabase&theme=light)](#)
-![Claude](https://img.shields.io/badge/Claude-FFFFFF?style=for-the-badge&logo=anthropic&logoColor=D97757)
+[![Stack](https://skillicons.dev/icons?i=python,nextjs,supabase&theme=light)](#) <img src="https://raw.githubusercontent.com/JeraldSpares/JeraldSpares/main/assets/icons/claude.svg" width="48" height="48" alt="Claude"/>
 
 ---
 
